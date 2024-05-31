@@ -5,15 +5,25 @@ function renderOneDay() {
   return apiService
     .getData('weather')
     .then(data => {
+      // Check if data is as expected
+      console.log('Weather data:', data);
+
+      // Construct the template data
       const tplDate = {
         name: data.name,
         temp: Math.round(data.main.temp),
         country: data.sys.country,
         temp_min: Math.round(data.main.temp_min),
         temp_max: Math.round(data.main.temp_max),
-        icon: `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`,
+        icon: data.weather[0].icon
+          ? `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
+          : 'path/to/default/image.png', // Provide a default image
       };
 
+      // Log template data to verify it's correct
+      console.log('Template data:', tplDate);
+
+      // Render the template with the data and set it as innerHTML of '.one-day' element
       document.querySelector('.one-day').innerHTML = oneDayTpl(tplDate);
     })
     .catch(error => {

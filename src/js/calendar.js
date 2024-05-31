@@ -1,4 +1,4 @@
-import calendarTpl from '../template/calendar.hbs';
+import calendarTpl from '.src/template/calendar.hbs';
 import apiService from './base/apiService.js';
 import sunriseIcon from '../images/sunrise.svg';
 import sunsetIcon from '../images/sunset.svg';

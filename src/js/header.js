@@ -1,12 +1,12 @@
 import apiServise from './base/apiService.js';
-import updateButtons from 'src/template/favoriteElem.hbs';
+import updateButtons from '.src/template/favoriteElem.hbs';
 import renderOneDay from './oneDay.js';
 import renderFiveDay from './fiveDays.js';
 import renderCalendar from './calendar.js';
 import onHideChartClick from './chart.js';
 import { setBgImages, setGeoLocationImg } from './components/bg-service.js';
 import Siema from 'siema';
-import favoriteCity from 'src/template/favoriteCity.hbs';
+import favoriteCity from '.src/template/favoriteCity.hbs';
 
 const searchbox = document.querySelector('.input-form');
 const inputRef = document.querySelector('.search-box');

@@ -1,11 +1,11 @@
-import fiveDaysTpl from '../template/fiveDays.hbs';
-import arrowLeft from 'src/images/arrowLeft.png';
-import arrowRight from 'src/images/arrowRight.png';
+import fiveDaysTpl from './template/fiveDays.hbs';
+import arrowLeft from './images/arrowLeft.png';
+import arrowRight from './images/arrowRight.png';
 import apiService from './base/apiService.js';
 import { renderFiveDays } from './base/helper.js';
 import { initEvtFiveDays } from './moreInfo.js';
-import arrowRigfhtInfo from 'src/images/arrow-right-info.png';
-import arrowLeftInfo from 'src/images/arrow-left-info.png';
+import arrowRigfhtInfo from './images/arrow-right-info.png';
+import arrowLeftInfo from './images/arrow-left-info.png';
 
 function renderFiveDay() {
   return apiService
