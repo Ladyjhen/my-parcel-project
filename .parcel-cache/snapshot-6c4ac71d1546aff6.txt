@@ -124,12 +124,12 @@
 97C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\abortcontroller-polyfill\LICENSE133616358431975495 0
 109C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\COMMAND.d.ts133616358523786825 0
 97C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\svgo\plugins\removeDimensions.js133616358489691562 0
-65C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\main.scss133616377342956196 0
+65C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\main.scss133616387240499455 0
 96C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\caniuse-lite\data\regions\PL.js133616358542257972 0
 125C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133616358492438329 0
 96C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\caniuse-lite\data\regions\AO.js133616358467364815 0
 97C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\type-fest\source\promisable.d.ts133616358466431121 0
-77C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\dist\oneDay.dev.js133616372126094720 0
+77C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\dist\oneDay.dev.js133616415607823032 0
 102C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\lmdb\dependencies\lz4\lib\dll\example133616358514034064 1
 116C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\CLIENT_UNPAUSE.d.ts133616358523042903 0
 90C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\csso\lib\replace\color.js133616358459310519 0
@@ -189,7 +189,7 @@
 105C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133616358511252738 0
 96C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\utils\src\DefaultMap.js133616358459466986 0
 69C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\csso133616358489794631 1
-68C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\oneDay.js133616372125794594 0
+68C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\oneDay.js133616415600634992 0
 82C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\js-yaml\README.md133616358484467712 0
 99C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\type-fest\ts41\delimiter-case.d.ts133616358455434242 0
 103C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\utility-types\dist\mapped-types.js.map133616358454295474 0
@@ -249,7 +249,7 @@
 61C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\.cache\2f133616180337413748 1
 105C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\utils\src\dependency-location.js133616358462015221 0
 110C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133616358433464847 0
-64C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\template133615612852414459 1
+64C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\template133616409196287578 1
 118C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@babel\highlight\node_modules\color-name\package.json133616358432565247 0
 102C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\caniuse-lite\data\features\svg-css.js133616358583853342 0
 85C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@swc\helpers\LICENSE133616358431915680 0
@@ -307,7 +307,7 @@
 117C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133616358458016360 0
 94C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\source-map\lib\source-node.js133616358456532295 0
 101C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\css-what\lib\commonjs\parse.d.ts.map133616358456685569 0
-75C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\template\oneDay.hbs133616350452047622 0
+75C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\template\oneDay.hbs133616413066967581 0
 85C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\is-extglob\README.md133616358433654816 0
 97C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\picocolors\picocolors.browser.js133616358433585524 0
 97C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\packager-js\lib\index.js133616358456745606 0
@@ -358,7 +358,7 @@
 108C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\BZPOPMIN.js133616358469826744 0
 98C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\handlebars\lib\handlebars\base.js133616358459466986 0
 89C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\node-addon-api\README.md133616358463137404 0
-70C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\fiveDays.js133616370022460560 0
+70C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\fiveDays.js133616422100769701 0
 106C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\LOLWUT.js133616358513869552 0
 87C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\entities\lib\decode.js133616358445631344 0
 68C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\header.js133616369590459711 0
@@ -371,7 +371,7 @@
 103C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\core\test\EntryRequest.test.js133616358492811207 0
 115C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\CLIENT_GETREDIR.js133616358471547358 0
 103C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@swc\helpers\esm\_non_iterable_rest.js133616358513125697 0
-79C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\dist\fiveDays.dev.js133616370023368227 0
+79C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\dist\fiveDays.dev.js133616422131770233 0
 94C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\posthtml-include\lib\index.js133616358434872820 0
 92C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\regenerator-runtime\path.js133616358433525686 0
 83C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\js\components\bg-service.js133616202798868767 0
@@ -464,10 +464,10 @@
 100C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\type-fest\source\literal-union.d.ts133616358461697566 0
 71C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\images\wind.svg133615474058549306 0
 73C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\wordwrap133616358445631344 1
-73C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\dist\index.dev.js133616370850260459 0
+73C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\dist\index.dev.js133616420584202588 0
 92C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\svgo\plugins\removeAttrs.js133616358488666377 0
 95C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\core\lib\buildCache.js133616358484764224 0
-69C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\dist\main.css133616377343681608 0
+69C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\src\dist\main.css133616387246052580 0
 105C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@redis\client\dist\lib\commands\SET.d.ts133616358540197619 0
 83C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\.package-lock.json133616358602758302 0
 107C:\Users\Jen Durana\Desktop\FSON4\my-parcel-project\node_modules\@parcel\core\src\serializerCore.browser.js133616358511759344 0

@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel serve src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html",
+    "start": "npm run dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
+    "cssnano": "^7.0.1",
     "parcel": "^2.12.0",
     "parcel-transformer-handlebars": "^1.0.0",
+    "postcss": "^8.4.38",
     "posthtml-include": "^2.0.1"
   },
   "dependencies": {
